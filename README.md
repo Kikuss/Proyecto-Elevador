@@ -13,7 +13,7 @@ componentes electrónicos y programación mediante Arduino.
 
 - Francisco Collado
 - Enrique Jiménez
-- Andrés Boch
+- André Boch
 - André Carcuz
 - Pablo Garcia
 
