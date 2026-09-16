@@ -12,7 +12,7 @@ Durante la sesión participaron presencialmente:
 André Carcuz llegó posteriormente, aproximadamente a las 5:00 p. m.,
 para entregar los materiales que habían sido solicitados previamente.
 
-Andrés Boch y Pablo Garcia no pudieron asistir debido a sus
+André Boch y Pablo Garcia no pudieron asistir debido a sus
 horarios laborales, según lo indicado por ellos.
 
 ## Actividades realizadas
