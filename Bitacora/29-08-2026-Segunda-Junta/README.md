@@ -30,13 +30,13 @@ ensamblaje el 30 de agosto.
 ## Apartado electrónico
 
 Ese mismo día se entregaron los materiales electrónicos a
-Andrés Boch para que pudiera continuar el trabajo iniciado
+André Boch para que pudiera continuar el trabajo iniciado
 durante la primera sesión de trabajo.
 
 ## Programación
 
 También se coordinó que Pablo Garcia continuara con el apartado
-de programación, trabajando en coordinación con Andrés Boch y
+de programación, trabajando en coordinación con André Boch y
 André Carcuz para posteriormente realizar el ensamblaje del
 elevador.
 
